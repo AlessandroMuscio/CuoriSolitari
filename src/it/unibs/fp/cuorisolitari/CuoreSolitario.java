@@ -1,3 +1,5 @@
+package it.unibs.fp.cuorisolitari;
+
 public class CuoreSolitario {
   private static final int DIFFERENZA_MINIMA_ETA = 10;
   private String pseudonimo;

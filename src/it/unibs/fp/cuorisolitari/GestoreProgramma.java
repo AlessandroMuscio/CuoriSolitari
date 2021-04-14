@@ -1,3 +1,5 @@
+package it.unibs.fp.cuorisolitari;
+
 import it.unibs.fp.mylib.InputDati;
 
 public class GestoreProgramma {

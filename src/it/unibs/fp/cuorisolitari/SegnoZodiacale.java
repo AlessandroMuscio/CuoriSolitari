@@ -1,3 +1,5 @@
+package it.unibs.fp.cuorisolitari;
+
 public enum SegnoZodiacale {
   ACQUARIO("Acquario", "Aria"), PESCI("Pesci", "Acqua"), ARIETE("Ariete", "Fuoco"), TORO("Toro", "Terra"),
   GEMELLI("Gemelli", "Aria"), CANCRO("Cancro", "Acqua"), LEONE("Leone", "Fuoco"), VERGINE("Vergine", "Terra"),

@@ -1,3 +1,5 @@
+package it.unibs.fp.cuorisolitari;
+
 public class OutputStringhe {
   // Messaggi per la classe App
   public static final String MSG_BENVENUTO = "Benvenuto nel programma Cuori Solitari!\n";
